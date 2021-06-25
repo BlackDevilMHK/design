@@ -11,7 +11,7 @@ figlet    '   BlackDevilMHK' |lolcat
 echo "
              We Do Not HaCk to impress
                         We HaCk To Express
-   < ━━━━━━━━━━━ [★]BlackDevilNHK[★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━ [★]BlackDevilMHK[★] ━━━━━━━━━━━━ > " |lolcat
 
 
 python /data/data/com.termux/files/usr/etc/wlc.py
